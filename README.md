@@ -41,22 +41,6 @@ Hello! I'm Andrew Kozinski, a Computer Science student at **Farmingdale State Co
 
 ---
 
-## 📌 Featured Projects  
-
-### 🌦️ **Weather App**  
-📌 *React, OpenWeatherMap API, Chart.js*  
-- Developed a weather app that displays **real-time weather** and trends using **Chart.js**  
-- Integrated **React Router** for dynamic navigation between forecast details  
-
-### 📄 **PDF to HTML Converter**  
-📌 *Java, JavaFX*  
-- Built a **GUI-based tool** that converts PDFs into stylized **HTML files**  
-- Supports **custom CSS styling** and generates an **index page** linking all files  
-
-🔗 **Check out my projects:** [![GitHub Repositories](https://img.shields.io/badge/GitHub-My%20Projects-orange?style=flat&logo=github)](https://github.com/andrewkozinski?tab=repositories)  
-
----
-
 ## 📫 Let's Connect!  
 
 I'm always eager to collaborate on exciting projects and explore new opportunities. Feel free to reach out! 🚀  
