@@ -23,7 +23,7 @@ Hello! I'm Andrew Kozinski, a Computer Science student at **Farmingdale State Co
 - **Certifications:** Responsive Web Design, JavaScript Algorithms & Data Structures, Data Visualization  
 
 ---
-
+<!---
 ## 🏆 Experience  
 
 ### 🚀 **Software Engineer Intern** @ Tomorrow’s AI *(Sep 2024 - Present)*  
@@ -40,7 +40,7 @@ Hello! I'm Andrew Kozinski, a Computer Science student at **Farmingdale State Co
 - Strengthened coding skills through **pair programming & problem-solving challenges**  
 
 ---
-
+--!>
 ## 📫 Let's Connect!  
 
 I'm always eager to collaborate on exciting projects and explore new opportunities. Feel free to reach out! 🚀  
