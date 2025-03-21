@@ -31,7 +31,6 @@ I'm always eager to collaborate on exciting projects and explore new opportuniti
 📩 **Email:** [kozinski04@hotmail.com](mailto:kozinski04@hotmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/andrew-kozinski-392613252/](https://www.linkedin.com/in/andrew-kozinski-392613252/)  
 
----
 <!---
 ## 🏆 Experience  
 
