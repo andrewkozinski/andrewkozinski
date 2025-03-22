@@ -5,7 +5,6 @@
 📧 [kozinski04@hotmail.com](mailto:kozinski04@hotmail.com)  
 🔗 [![Website](https://img.shields.io/badge/Website-Andrew%20Kozinski-lightgrey?style=flat&logo=google-chrome)](https://andrewkozinski.github.io)  
 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Kozinski-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrew-kozinski-392613252/)  
-🔗 [![GitHub](https://img.shields.io/badge/GitHub-andrewkozinski-black?style=flat&logo=github)](https://github.com/andrewkozinski)  
 
 ---
 
