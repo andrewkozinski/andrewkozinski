@@ -10,15 +10,15 @@
 
 ## 👨‍💻 About Me  
 
-Hello! I'm Andrew Kozinski, a Computer Science student at **Farmingdale State College**!. I'm passionate about software development, web technologies, and problem-solving. Currently, I'm participating in the **Basta Google Software Engineering Program** and interning as a **Software Engineer at Tomorrow’s AI**.  
+Hello! I'm Andrew Kozinski, a Computer Science student at **Farmingdale State College**!. I'm passionate about software development, web technologies, and problem-solving. Currently, I'm interning as a Software Engineer Intern at **Altice USA (Optimum)** and I'm participating in the **Basta Google Software Engineering Program**!   
 
 ---
 
 ## 🔧 Technologies & Tools  
 
-- **Languages:** Java, Python, C, SQL, JavaScript, TypeScript, Kotlin, HTML/CSS  
+- **Languages:** Java, Kotlin, Python, C, SQL, JavaScript, TypeScript, HTML/CSS  
 - **Frameworks & Libraries:** React, JavaFX, Chart.js  
-- **Tools & Platforms:** IntelliJ, Eclipse, Visual Studio, VS Code, PyCharm, Android Studio  
+- **Tools & Platforms:** IntelliJ, Android Studio, Visual Studio, VS Code, PyCharm  
 - **Certifications:** Responsive Web Design, JavaScript Algorithms & Data Structures, Data Visualization  
 
 ---
