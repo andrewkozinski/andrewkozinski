@@ -4,7 +4,7 @@
 📍 Deer Park, NY  
 📧 [kozinski04@hotmail.com](mailto:kozinski04@hotmail.com)  
 🔗 [![Website](https://img.shields.io/badge/Website-Andrew%20Kozinski-lightgrey?style=flat&logo=google-chrome)](https://andrewkozinski.github.io)  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Kozinski-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrew-kozinski-392613252/)  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andrew%20Kozinski-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrew-kozinski/)  
 
 ---
 
