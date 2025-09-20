@@ -28,7 +28,7 @@ Hello! I'm Andrew Kozinski, a Computer Science student at **Farmingdale State Co
 I'm always eager to collaborate on exciting projects and explore new opportunities. Feel free to reach out! 🚀  
 
 📩 **Email:** [kozinski04@hotmail.com](mailto:kozinski04@hotmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/andrew-kozinski-392613252/](https://www.linkedin.com/in/andrew-kozinski-392613252/)  
+🔗 **LinkedIn:** [linkedin.com/in/andrew-kozinski/](https://www.linkedin.com/in/andrew-kozinski/)  
 
 <!---
 ## 🏆 Experience  
